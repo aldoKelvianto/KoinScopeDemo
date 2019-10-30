@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dev Day Sched - Scoped</string>
+    <string name="title_news">News - Scoped</string>
+    <string name="title_speaker">Speaker - Scoped</string>
+</resources>
